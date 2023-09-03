@@ -3,7 +3,7 @@ from textbase.models import OpenAI
 from typing import List
 
 # Load your OpenAI API key
-OpenAI.api_key = "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"
+OpenAI.api_key = "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"
 
 # Define a system prompt for your chatbot
 SYSTEM_PROMPT = """Welcome to EcoSavvy, your sustainable living assistant. I can help you make eco-friendly choices in your daily life. 
